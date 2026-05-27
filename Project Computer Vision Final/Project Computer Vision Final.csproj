@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1836DE99-3CD4-4CC6-AE62-FEE4E9A27660}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Project_Computer_Vision_Final</RootNamespace>
+    <AssemblyName>Project Computer Vision Final</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Emgu.CV.UI">
+      <HintPath>..\..\emgucv-windesktop 3.3.0.2824\bin\Emgu.CV.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.World">
+      <HintPath>..\..\emgucv-windesktop 3.3.0.2824\bin\Emgu.CV.World.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About US.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="About US.Designer.cs">
+      <DependentUpon>About US.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contour.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Contour.Designer.cs">
+      <DependentUpon>Contour.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConvertToGray.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ConvertToGray.Designer.cs">
+      <DependentUpon>ConvertToGray.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdgeDetection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EdgeDetection.Designer.cs">
+      <DependentUpon>EdgeDetection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="facedetection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="facedetection.Designer.cs">
+      <DependentUpon>facedetection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Histogram.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Histogram.Designer.cs">
+      <DependentUpon>Histogram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImageBinarization.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ImageBinarization.Designer.cs">
+      <DependentUpon>ImageBinarization.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Morphology.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Morphology.Designer.cs">
+      <DependentUpon>Morphology.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VDO.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VDO.Designer.cs">
+      <DependentUpon>VDO.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About US.resx">
+      <DependentUpon>About US.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contour.resx">
+      <DependentUpon>Contour.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConvertToGray.resx">
+      <DependentUpon>ConvertToGray.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdgeDetection.resx">
+      <DependentUpon>EdgeDetection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="facedetection.resx">
+      <DependentUpon>facedetection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Histogram.resx">
+      <DependentUpon>Histogram.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImageBinarization.resx">
+      <DependentUpon>ImageBinarization.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Morphology.resx">
+      <DependentUpon>Morphology.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="VDO.resx">
+      <DependentUpon>VDO.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="cvextern.lib">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="concrt140.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="cvextern.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\haarcascade_eye.xml" />
+    <Content Include="data\haarcascade_frontalface_default.xml" />
+    <Content Include="data\lbpcascade_frontalface.xml" />
+    <Content Include="msvcp140.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="opencv_ffmpeg330_64.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\166991057_295266628884813_6417352892457760510_n.jpg" />
+    <None Include="Resources\67947593_728386814278180_2409837589222653952_n.jpg" />
+    <None Include="Resources\WhatsApp Image 2022-02-25 at 1.11.23 PM.jpeg" />
+    <Content Include="vcruntime140.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="ZedGraph.Web">
+      <Version>5.1.5</Version>
+    </PackageReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

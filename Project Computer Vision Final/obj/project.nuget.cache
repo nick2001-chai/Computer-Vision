@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SK5KIr2WH8aYQktv0KZh+LW7QP+6r81DxRuiilvyfc5owhrmGHoz3uItuugSh+icD7Dl8Q+c0Qg3IQXNRf78XQ==",
+  "success": true,
+  "projectFilePath": "D:\\comvision\\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\\test\\Project Computer Vision Final\\Project Computer Vision Final\\Project Computer Vision Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kevin-z\\.nuget\\packages\\zedgraph\\5.1.5\\zedgraph.5.1.5.nupkg.sha512",
+    "C:\\Users\\Kevin-z\\.nuget\\packages\\zedgraph.web\\5.1.5\\zedgraph.web.5.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

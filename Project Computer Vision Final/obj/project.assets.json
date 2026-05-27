@@ -1,0 +1,211 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "ZedGraph/5.1.5": {
+        "type": "package",
+        "compile": {
+          "lib/ZedGraph.dll": {}
+        },
+        "runtime": {
+          "lib/ZedGraph.dll": {}
+        }
+      },
+      "ZedGraph.Web/5.1.5": {
+        "type": "package",
+        "dependencies": {
+          "ZedGraph": "5.1.5"
+        },
+        "frameworkAssemblies": [
+          "System.Web"
+        ],
+        "compile": {
+          "lib/ZedGraph.Web.dll": {}
+        },
+        "runtime": {
+          "lib/ZedGraph.Web.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "ZedGraph/5.1.5": {
+        "type": "package",
+        "compile": {
+          "lib/ZedGraph.dll": {}
+        },
+        "runtime": {
+          "lib/ZedGraph.dll": {}
+        }
+      },
+      "ZedGraph.Web/5.1.5": {
+        "type": "package",
+        "dependencies": {
+          "ZedGraph": "5.1.5"
+        },
+        "frameworkAssemblies": [
+          "System.Web"
+        ],
+        "compile": {
+          "lib/ZedGraph.Web.dll": {}
+        },
+        "runtime": {
+          "lib/ZedGraph.Web.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "ZedGraph/5.1.5": {
+        "type": "package",
+        "compile": {
+          "lib/ZedGraph.dll": {}
+        },
+        "runtime": {
+          "lib/ZedGraph.dll": {}
+        }
+      },
+      "ZedGraph.Web/5.1.5": {
+        "type": "package",
+        "dependencies": {
+          "ZedGraph": "5.1.5"
+        },
+        "frameworkAssemblies": [
+          "System.Web"
+        ],
+        "compile": {
+          "lib/ZedGraph.Web.dll": {}
+        },
+        "runtime": {
+          "lib/ZedGraph.Web.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "ZedGraph/5.1.5": {
+        "type": "package",
+        "compile": {
+          "lib/ZedGraph.dll": {}
+        },
+        "runtime": {
+          "lib/ZedGraph.dll": {}
+        }
+      },
+      "ZedGraph.Web/5.1.5": {
+        "type": "package",
+        "dependencies": {
+          "ZedGraph": "5.1.5"
+        },
+        "frameworkAssemblies": [
+          "System.Web"
+        ],
+        "compile": {
+          "lib/ZedGraph.Web.dll": {}
+        },
+        "runtime": {
+          "lib/ZedGraph.Web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZedGraph/5.1.5": {
+      "sha512": "CclJINtatXbtBS2r4FFMPaGuwokmk5OlBnuW+QN5+d/CST0fv2N88pm8c3rIoOkXMiWvWArE+Jz1d2WA0QPoDQ==",
+      "type": "package",
+      "path": "zedgraph/5.1.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License-LGPL.txt",
+        "lib/ZedGraph.XML",
+        "lib/ZedGraph.dll",
+        "lib/de/ZedGraph.resources.dll",
+        "lib/es/ZedGraph.resources.dll",
+        "lib/fr/ZedGraph.resources.dll",
+        "lib/hu/ZedGraph.resources.dll",
+        "lib/it/ZedGraph.resources.dll",
+        "lib/ja/ZedGraph.resources.dll",
+        "lib/pt/ZedGraph.resources.dll",
+        "lib/ru/ZedGraph.resources.dll",
+        "lib/sk/ZedGraph.resources.dll",
+        "lib/sv/ZedGraph.resources.dll",
+        "lib/tr/ZedGraph.resources.dll",
+        "lib/zh-cn/ZedGraph.resources.dll",
+        "lib/zh-tw/ZedGraph.resources.dll",
+        "readme.txt",
+        "zedgraph.5.1.5.nupkg.sha512",
+        "zedgraph.nuspec"
+      ]
+    },
+    "ZedGraph.Web/5.1.5": {
+      "sha512": "0im/o2XbSyPLJaymW+N9jL5s5iYoE4NpdNLb/cUls3up5t3ox15dNWsaOxpwPcKB1Vbtxo5iY1N32bWPSzFLDA==",
+      "type": "package",
+      "path": "zedgraph.web/5.1.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License-LGPL.txt",
+        "lib/ZedGraph.Web.XML",
+        "lib/ZedGraph.Web.dll",
+        "readme.txt",
+        "zedgraph.web.5.1.5.nupkg.sha512",
+        "zedgraph.web.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "ZedGraph.Web >= 5.1.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Kevin-z\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\comvision\\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\\test\\Project Computer Vision Final\\Project Computer Vision Final\\Project Computer Vision Final.csproj",
+      "projectName": "Project Computer Vision Final",
+      "projectPath": "D:\\comvision\\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\\test\\Project Computer Vision Final\\Project Computer Vision Final\\Project Computer Vision Final.csproj",
+      "packagesPath": "C:\\Users\\Kevin-z\\.nuget\\packages\\",
+      "outputPath": "D:\\comvision\\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\\test\\Project Computer Vision Final\\Project Computer Vision Final\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Kevin-z\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "ZedGraph.Web": {
+            "target": "Package",
+            "version": "[5.1.5, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

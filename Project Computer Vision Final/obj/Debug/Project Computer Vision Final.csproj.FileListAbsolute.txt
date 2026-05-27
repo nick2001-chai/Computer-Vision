@@ -1,0 +1,119 @@
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\concrt140.dll
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\cvextern.dll
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\msvcp140.dll
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\opencv_ffmpeg330_64.dll
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\vcruntime140.dll
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\cvextern.lib
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\Project Computer Vision Final.exe.config
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\Project Computer Vision Final.exe
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\Project Computer Vision Final.pdb
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\Emgu.CV.World.dll
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\Emgu.CV.World.xml
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.csproj.AssemblyReference.cache
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.ConvertToGray.resources
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.Form1.resources
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.Properties.Resources.resources
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.csproj.GenerateResource.cache
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.csproj.CoreCompileInputs.cache
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.csproj.CopyComplete
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.exe
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.pdb
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\Emgu.CV.UI.dll
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\ZedGraph.dll
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\Emgu.CV.UI.xml
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.Histogram.resources
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.ImageBinarization.resources
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.EdgeDetection.resources
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.Morphology.resources
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.Contour.resources
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.VDO.resources
+D:\comvision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.FaceDetection.resources
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\concrt140.dll
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\cvextern.dll
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\msvcp140.dll
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\opencv_ffmpeg330_64.dll
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\vcruntime140.dll
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\cvextern.lib
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\Project Computer Vision Final.exe.config
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\Project Computer Vision Final.exe
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\Project Computer Vision Final.pdb
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\ZedGraph.dll
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\Emgu.CV.UI.xml
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\Emgu.CV.World.xml
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.csproj.AssemblyReference.cache
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.csproj.SuggestedBindingRedirects.cache
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.Contour.resources
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.ConvertToGray.resources
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.EdgeDetection.resources
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.Form1.resources
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.Histogram.resources
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.ImageBinarization.resources
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.Morphology.resources
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.Properties.Resources.resources
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.VDO.resources
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.csproj.GenerateResource.cache
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.csproj.CoreCompileInputs.cache
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.csproj.CopyComplete
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.exe
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.pdb
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.facedetection.resources
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Final_Project_Computer_Vision.About_US.resources
+D:\3CS2\computer vision\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.Aboutus.resources
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\concrt140.dll
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\cvextern.dll
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\msvcp140.dll
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\opencv_ffmpeg330_64.dll
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\vcruntime140.dll
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\cvextern.lib
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\Project Computer Vision Final.exe.config
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\Project Computer Vision Final.exe
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\Project Computer Vision Final.pdb
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.csproj.AssemblyReference.cache
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.csproj.SuggestedBindingRedirects.cache
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Final_Project_Computer_Vision.About_US.resources
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.Contour.resources
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.ConvertToGray.resources
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.EdgeDetection.resources
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.facedetection.resources
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.Form1.resources
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.Histogram.resources
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.ImageBinarization.resources
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.Morphology.resources
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.Properties.Resources.resources
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.VDO.resources
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.csproj.GenerateResource.cache
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.csproj.CoreCompileInputs.cache
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.csproj.CopyComplete
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.exe
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.pdb
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\ZedGraph.dll
+D:\Video record\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\ZedGraph.Web.dll
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\concrt140.dll
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\cvextern.dll
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\msvcp140.dll
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\opencv_ffmpeg330_64.dll
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\vcruntime140.dll
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\cvextern.lib
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\Project Computer Vision Final.exe.config
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\Project Computer Vision Final.exe
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\Project Computer Vision Final.pdb
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\ZedGraph.dll
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\bin\Debug\ZedGraph.Web.dll
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.csproj.AssemblyReference.cache
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.csproj.SuggestedBindingRedirects.cache
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Final_Project_Computer_Vision.About_US.resources
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.Contour.resources
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.ConvertToGray.resources
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.EdgeDetection.resources
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.facedetection.resources
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.Form1.resources
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.Histogram.resources
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.ImageBinarization.resources
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.Morphology.resources
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.Properties.Resources.resources
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project_Computer_Vision_Final.VDO.resources
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.csproj.GenerateResource.cache
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.csproj.CoreCompileInputs.cache
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.csproj.CopyComplete
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.exe
+D:\comvision\Ms Chaipasong Vongphansy + Mr Khounpasert Hormsombat (3CS2)\test\Project Computer Vision Final\Project Computer Vision Final\obj\Debug\Project Computer Vision Final.pdb
