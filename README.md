@@ -249,8 +249,8 @@ This project was developed and presented by:
 
 | Name | Role |
 |------|------|
-| **[Your Name]** | Developer & presenter |
-| **Khounpaserd Hormsombat** | Co-developer & co-presenter in the demo video |
+| **Ms Chaipasong Vongphansy** | Developer & presenter |
+| **Mr Khounpaserd Hormsombat** | Co-developer & co-presenter in the demo video |
 
 Special thanks to **Mr. Khounpaserd Hormsombat** for joining and contributing to both the project development and the video explanation. 🙏
 
