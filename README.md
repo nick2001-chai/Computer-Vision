@@ -223,6 +223,39 @@ Detects human faces (and eyes) in a loaded image using pre-trained **Haar cascad
 
 ---
 
+## 🎬 ວິດີໂອສາທິດ (Video Demo)
+
+> ວິດີໂອດ້ານລຸ່ມນີ້ອະທິບາຍໂຄງການນີ້ເປັນພາສາລາວ — ເໝາະສຳລັບນັກສຶກສາ ແລະ ຜູ້ໃຊ້ລາວ.
+>
+> *(The video below explains this project in the Lao language — suitable for Lao students and users.)*
+
+> **📺 [▶ ເບິ່ງວິດີໂອສາທິດ / Watch Demo Video](https://drive.google.com/file/d/1TlyKRjxFdj-rfNoX3jU-jzFMX0Or_lIX/view?usp=drive_link)**
+
+The video covers a full walkthrough of all modules in the application, including live demonstrations of:
+- Image transformation techniques (grayscale, negative, log, power-law)
+- Histogram channel visualization
+- Binarization and thresholding methods
+- Edge detection (Canny, Sobel, Laplacian)
+- Morphological operations
+- Contour detection and shape recognition
+- Real-time webcam processing
+- Face and eye detection
+
+---
+
+## 👥 Credits
+
+This project was developed and presented by:
+
+| Name | Role |
+|------|------|
+| **[Your Name]** | Developer & presenter |
+| **Khounpaserd Hormsombat** | Co-developer & co-presenter in the demo video |
+
+Special thanks to **Mr. Khounpaserd Hormsombat** for joining and contributing to both the project development and the video explanation. 🙏
+
+---
+
 ## 🏫 About
 
 This project was created as a final assignment for the **Computer Vision** course at the **Faculty of Computer Science, National University of Laos**.
